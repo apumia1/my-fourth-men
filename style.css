@@ -1,0 +1,48 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1,
+p {
+    font-size: 30px 20px;
+    color: aquamarine;
+    margin-left: 20%;
+}
+
+.eon {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 20px;
+    margin-left: 20%;
+    background-color: blueviolet;
+}
+
+section {
+    display: flex;
+    background-color: black;
+}
+
+.jim {
+    width: 50%;
+}
+
+.monu,
+img {
+    margin-top: 50px;
+    width: 80%;
+    background-color: none;
+
+}
+
+.minu {
+    margin-top: 10%;
+}
+
+.bongo {
+    text-decoration: none;
+    text-align: center;
+    display: flex;
+
+
+}
